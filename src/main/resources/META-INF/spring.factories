@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.spring.training.config.ApplicationConfig,\
+  com.spring.training.config.RedisConfig,\
+  com.spring.training.config.SecurityConfig
